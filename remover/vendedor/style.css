@@ -1,0 +1,49 @@
+body {
+        font-family: Arial, Helvetica, sans-serif;
+        background-image: linear-gradient(to right, #00ffff, #ff00ff)
+}
+
+.box {
+        color: white;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: rgba(0, 0, 0, 0.6);
+        padding: 15px;
+        border-radius: 15px;
+        width: 20%;
+}
+
+fieldset {
+        border: 3px solid dodgerblue;
+}
+
+legend {
+        border: 1px solid dodgerblue;
+        padding: 10px;
+        text-align: center; 
+        background-color: dodgerblue;
+        border-radius: 8px;
+}
+
+.p1{
+        font-size: 20px;
+}
+
+.id{
+        font-size: 20px;
+        width: 100%;
+        
+}
+
+.bot-enviar{
+        font-size: 17px;
+        cursor: pointer;
+
+}
+
+.bot-reset{
+        font-size: 17px;
+        cursor: pointer;
+}
