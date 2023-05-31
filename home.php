@@ -18,49 +18,49 @@
             <br>
             <div>
                 
-                <form action="/projeto/adicionar/cliente/cad_cliente.php" method="post">
+                <form action="/projeto_inicial/adicionar/cliente/cad_cliente.php" method="post">
                     <button>Cadastar um Cliente</button>
                 </form>
                 
                 <br>
                 
-                <form action="/projeto/remover/cliente/rem_cliente.php" method="post">
+                <form action="/projeto_inicial/remover/cliente/rem_cliente.php" method="post">
                     <button>Remover um Cliente</button>
                 </form>
                 
                 <br>
                
-                <form action="/projeto/adicionar/vendedor/cad_vendedor.php" method="post">
+                <form action="/projeto_inicial/adicionar/vendedor/cad_vendedor.php" method="post">
                 <button>Cadastrar um(a) Vendedor(a)</button>
                 </form>
                 
                 <br>
                 
-                <form action="/projeto/remover/vendedor/rem_vendedor.php" method="post">
+                <form action="/projeto_inicial/remover/vendedor/rem_vendedor.php" method="post">
                     <button>Remover um(a) Vendedor(a)</button>
                 </form>
 
                 <br>
 
-                <form action="/projeto/adicionar/lancamentos/cad_lancamento.php" method="post">
+                <form action="/projeto_inicial/adicionar/lancamentos/cad_lancamento.php" method="post">
                     <button>Registar um Lançamento</button>
                 </form>
 
                 <br>
 
-                <form action="/projeto/remover/lancamentos/rem_lancamento.php" method="post">
+                <form action="/projeto_inicial/remover/lancamentos/rem_lancamento.php" method="post">
                     <button>Remover um Lançamento</button>
                 </form>
                
                 <br>
 
-                <form action="/projeto/teste.php" method="post">
+                <form action="/projeto_inicial/teste.php" method="post">
                     <button>Criar um Login</button>
                 </form>
                 
                 <br>
 
-                <form action="/projeto/login.php" method="post">
+                <form action="/projeto_inicial/login.php" method="post">
                     <button>Deslogar</button>
                 </form>
                
